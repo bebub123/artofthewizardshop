@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Zauberstab des Weisen",
+    "description": "Ein handgeschnitzter Zauberstab, perfekt für Anfänger und erfahrene Magier.",
+    "price": "49.99",
+    "image": "images/zauberstab.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Elixier der ewigen Jugend",
+    "description": "Ein mystisches Gebräu, das die Spuren der Zeit verwischt. Nur in kleinen Mengen verfügbar.",
+    "price": "129.50",
+    "image": "images/elixier.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Amulett des Schutzes",
+    "description": "Schützt seinen Träger vor dunkler Magie und bösen Geistern.",
+    "price": "75.00",
+    "image": "images/amulett.jpg"
+  }
+]
