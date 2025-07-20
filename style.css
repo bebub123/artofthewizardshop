@@ -297,6 +297,26 @@ a {
   overflow: hidden;
 }
 
+.swiper-container {
+  max-width: 980px;    /* 3 Slides à 300px + Abstand ------------------------------------------------------------------*/
+  margin: 0 auto;
+  padding: 20px 0;
+  box-sizing: border-box;
+}
+
+.swiper-slide {
+  width: 300px !important;  /* Wichtig: Fixe Breite für jeden Slide */
+  text-align: center;
+}
+
+.banner-item img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+
 /* .slideshow .swiper-slide {
   background-position-x: -300px;
   transition: background-position-x 1.6s ease-out;
